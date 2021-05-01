@@ -39,7 +39,8 @@ Visit the website at: `localhost:8080`
 <center>
     <img src="https://i.imgur.com/OBiQN9X.png" />
 </center>
-===
+
+---
 
 <center>
 <h1>
@@ -53,19 +54,15 @@ Visit the website at: `localhost:8080`
 </h5>
 </center>
 
-<center>
-<hr>
-<div>Yuxuan 1003607</div>
-<div>Jia Yi 1003696</div>
-<div>Johnson 1003651</div>
-<div>Dev 1003375</div>
-<div>Zewen 1003623</div>
-</center>
-**Team**
-
 ---
 
-[TOC]
+**Team**
+
+Yuxuan <br>
+Jia Yi <br>
+Johnson <br>
+Dev <br>
+Zewen <br>
 
 ---
 
